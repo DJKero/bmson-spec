@@ -829,6 +829,7 @@ Left-most values are ``mode_hint``.
 **beat-10k** 1  2  3  4  5        SC 1  2  3  4  5        SC
 **beat-14k** 1  2  3  4  5  6  7  SC 1  2  3  4  5  6  7  SC
 ============ == == == == == == == == == == == == == == == ==
+
 SC: Scratch (Turntable)
 
 - Popn:
@@ -854,6 +855,7 @@ SC: Scratch (Turntable)
 **ez-14K**       1  2  3  4  5  PD    SC E1 E2 E3 E4 1  2  3  4  5        SC 
 **Andromeda**    1  2  3  4  5  PD    SC E1 E2 E3 E4 1  2  3  4  5  PD    SC 
 ================ == == == == == == == == == == == == == == == == == == == ==
+
 SC: Scratch (Turntable)
 
 PD: Pedal
