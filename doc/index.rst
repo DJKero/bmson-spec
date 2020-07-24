@@ -853,7 +853,7 @@ EZ2:
 **ez2-7K**       1  2  3  4  5  PD    SC E1 E2
 **ez2-10K**      1  2  3  4  5  PD    SC             1  2  3  4  5        SC
 **ez2-14K**      1  2  3  4  5  PD    SC E1 E2 E3 E4 1  2  3  4  5        SC 
-**Andromeda**    1  2  3  4  5  PD    SC E1 E2 E3 E4 1  2  3  4  5  PD    SC 
+**ANDROMEDA**    1  2  3  4  5  PD    SC E1 E2 E3 E4 1  2  3  4  5  PD    SC 
 ================ == == == == == == == == == == == == == == == == == == == ==
 
 SC: Scratch (Turntable)
