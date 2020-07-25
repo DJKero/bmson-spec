@@ -871,7 +871,7 @@ mode_hint         Buttons side 1       Effectors   Buttons side 2
 **ez2-5K-ONLY**                                       6  7  8  9  10
 **ez2-RUBY**                                       PD 6  7  8  9  10 SC
 **ez2-5K**                                         PD 6  7  8  9  10 SC
-**ez2-7K**                                   E3 E4    6  7  8  9  10 SC
+**ez2-7K**                                   E3 E4 PD 6  7  8  9  10 SC
 **ez2-10K**       SC 1  2  3  4  5                 PD 6  7  8  9  10 SC
 **ez2-14K**       SC 1  2  3  4  5     E1 E2 E3 E4    6  7  8  9  10 SC
 **ez2-ANDROMEDA** SC 1  2  3  4  5  PD E1 E2 E3 E4 PD 6  7  8  9  10 SC
