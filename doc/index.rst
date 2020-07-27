@@ -852,13 +852,13 @@ Player 1 side:
 ================= == == == == == == == == == == == == == == == == == ==
 mode_hint         Buttons side 1       Effectors   Buttons side 2
 ----------------- -------------------- ----------- --------------------
-**ez2-5K-ONLY**      1  2  3  4  5
-**ez2-RUBY**      SC 1  2  3  4  5  PD
-**ez2-5K**        SC 1  2  3  4  5  PD
-**ez2-7K**        SC 1  2  3  4  5  PD E1 E2
-**ez2-10K**       SC 1  2  3  4  5  PD                6  7  8  9  10 SC
-**ez2-14K**       SC 1  2  3  4  5     E1 E2 E3 E4    6  7  8  9  10 SC
-**ez2-ANDROMEDA** SC 1  2  3  4  5  PD E1 E2 E3 E4 PD 6  7  8  9  10 SC
+**ez2-5k-only**      1  2  3  4  5
+**ez2-ruby**      SC 1  2  3  4  5  PD
+**ez2-5k**        SC 1  2  3  4  5  PD
+**ez2-7k**        SC 1  2  3  4  5  PD E1 E2
+**ez2-10k**       SC 1  2  3  4  5  PD                6  7  8  9  10 SC
+**ez2-14k**       SC 1  2  3  4  5     E1 E2 E3 E4    6  7  8  9  10 SC
+**ez2-andromeda** SC 1  2  3  4  5  PD E1 E2 E3 E4 PD 6  7  8  9  10 SC
 ================= == == == == == == == == == == == == == == == == == ==
 
 Player 2 side:
@@ -868,13 +868,13 @@ Player 2 side:
 ================= == == == == == == == == == == == == == == == == == ==
 mode_hint         Buttons side 1       Effectors   Buttons side 2
 ----------------- -------------------- ----------- --------------------
-**ez2-5K-ONLY**                                       6  7  8  9  10
-**ez2-RUBY**                                       PD 6  7  8  9  10 SC
-**ez2-5K**                                         PD 6  7  8  9  10 SC
-**ez2-7K**                                   E3 E4 PD 6  7  8  9  10 SC
-**ez2-10K**       SC 1  2  3  4  5                 PD 6  7  8  9  10 SC
-**ez2-14K**       SC 1  2  3  4  5     E1 E2 E3 E4    6  7  8  9  10 SC
-**ez2-ANDROMEDA** SC 1  2  3  4  5  PD E1 E2 E3 E4 PD 6  7  8  9  10 SC
+**ez2-5k-only**                                       6  7  8  9  10
+**ez2-ruby**                                       PD 6  7  8  9  10 SC
+**ez2-5k**                                         PD 6  7  8  9  10 SC
+**ez2-7k**                                   E3 E4 PD 6  7  8  9  10 SC
+**ez2-10k**       SC 1  2  3  4  5                 PD 6  7  8  9  10 SC
+**ez2-14k**       SC 1  2  3  4  5     E1 E2 E3 E4    6  7  8  9  10 SC
+**ez2-andromeda** SC 1  2  3  4  5  PD E1 E2 E3 E4 PD 6  7  8  9  10 SC
 ================= == == == == == == == == == == == == == == == == == ==
 
 SC: Scratch (Turntable)
